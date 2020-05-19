@@ -1,6 +1,10 @@
 " digraphs for various utf-8 chars
 " vim defaults commented out
-" ***
+" *** defaults not included:
+" -X ✠, !I ¡, AE Æ, ae æ, :. ∵,
+" .: ∴, 0( ∝, 00 ∞, /- †, /= ‡,
+" :X ※, Ob ∘, N0 №, Rx ℞, :3 ⋮,
+" 8R Ⅷ, 8r ⅷ, -! ↑, -v ↓, UD ↕.
 " digraphs that work in vanilla
 " UnicodeSyntax haskell:
 " digraph :: 8759 " ∷
